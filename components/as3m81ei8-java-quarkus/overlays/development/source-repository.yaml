@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: as3m81ei8-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/as3m81ei8-java-quarkus
